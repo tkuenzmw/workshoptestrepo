@@ -1,2 +1,5 @@
 import numpy as np
-a = np.arange(12)
+
+def main():
+    a = np.arange(12)
+    return a
