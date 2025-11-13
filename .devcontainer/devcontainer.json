@@ -17,7 +17,7 @@
       "release": "r2025b",
       "products": "MATLAB Image_Processing_Toolbox Parallel_Computing_Toolbox Statistics_and_Machine_Learning_Toolbox",
       "installMatlabProxy": "true",
-      "startInDesktop": "false",
+      "startInDesktop": "true",
       "installJupyterMatlabProxy": true,
       "installJupyterLab": true,
       "installMatlabEngineForPython": true
